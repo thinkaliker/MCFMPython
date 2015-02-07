@@ -16,14 +16,16 @@ Proides an easy way to connect to Twitch IRC and scrapes for Monstercat FM's bot
 ###Running
 - Run `start.bat` by double clicking on it. Alternatively you can run it through the Python terminal.
 - It will ask you where to save the currently playing text file. If it does not exist, this will automatically create it for you.
-- It will ask you for the channel name you would like to join. Preface the channel name with `#`.
+- It will ask you for the channel name you would like to join. Do not preface the channel name with `#`.
 - It will ask you for a username. This should match the account you got an OAuth key for.
 - It will ask you for the OAuth key. Copy your OAuth key, starting with "oauth:", right click and paste it. It will be hidden from sight.
 - It should now connect if everything went right.
-- You may need to type `!song` in your own chat so that it will show the currently playing song.
+- It will ask you for the style of output you would like, including all caps.
 - Add the text file to your OBS/whatever scene and it will automatically update.
 - To exit, simply close the window.
 
 #Bugs/TODO
+- Make sure the folder exists before creating the file
+- Configuration file saved between sessions
 - Files don't work across drives - I recommend keeping the output file on the C:\ drive
 - Input validation?
