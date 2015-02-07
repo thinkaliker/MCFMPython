@@ -25,6 +25,5 @@ Proides an easy way to connect to Twitch IRC and scrapes for Monstercat FM's bot
 - To exit, simply close the window.
 
 #Bugs/TODO
-- Write to file
-- Different output style selection
+- Files don't work across drives - I recommend keeping the output file on the C:\ drive
 - Input validation?
