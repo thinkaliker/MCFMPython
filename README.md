@@ -1,4 +1,4 @@
-# MCFMPython
+# Monstercat FM Twitch Python Helper
 This Python script connects to any specified Twitch IRC channel, parses for [Monstercat](http://twitch.tv/monstercat) FM's Twitch music streaming bot, and formats them for use in [Open Broadcast Software](http://obsproject.org) or any other streaming program that uses a text file to update the current song/artist.
 
 Don't have Python? Try [MCFMIRCParser](http://github.com/thinkaliker/mcfmircparser).
