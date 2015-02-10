@@ -3,6 +3,8 @@ This Python script connects to any specified Twitch IRC channel, parses for [Mon
 
 Don't have Python? Try [MCFMIRCParser](http://github.com/thinkaliker/mcfmircparser).
 
+![what it looks like](http://i.imgur.com/RFYkmie.png)
+
 ##Feaures
 Proides an easy way to connect to Twitch IRC and scrapes for Monstercat FM's bot. It will automatically update a text file with the currently playing song and artist.
 
